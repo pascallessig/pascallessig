@@ -1,6 +1,6 @@
 # Pascal Lessig | Quantitative Analyst & Researcher
 
-[GitHub](https://github.com/pascallessig) | [LinkedIn](https://linkedin.com/in/pascallessig) | [ORCID](https://orcid.org/0009-0003-0945-8D966) | <pascal.lessig@domus-finance.eu>
+[GitHub](https://github.com/pascallessig) | [LinkedIn](https://linkedin.com/in/pascallessig) | [ORCID](https://orcid.org/0009-0003-0945-8966) | <pascal.lessig@domus-finance.eu>
 
 ---
 
