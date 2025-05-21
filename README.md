@@ -1,6 +1,6 @@
 # Pascal Lessig | Quantitative Analyst & Researcher
 
-[GitHub](https://github.com/pascallessig) | [LinkedIn](https://linkedin.com/in/pascallessig) | [ORCID](https://orcid.org/0009-0003-0945-8D966) | <pascal.lessig@gmail.com>
+[GitHub](https://github.com/pascallessig) | [LinkedIn](https://linkedin.com/in/pascallessig) | [ORCID](https://orcid.org/0009-0003-0945-8D966) | <pascal.lessig@domus-finance.eu>
 
 ---
 
@@ -92,7 +92,7 @@ Here are some of the projects I've worked on:
 
 Feel free to reach out if you'd like to discuss my projects, skills, or potential collaborations.
 
-* **Email:** <pascal.lessig@gmail.com>
+* **Email:** <pascal.lessig@domus-finance.eu>
 * **LinkedIn:** [linkedin.com/in/pascallessig](https://linkedin.com/in/pascallessig)
 * **GitHub:** [github.com/pascallessig](https://github.com/pascallessig)
 * **ORCID:** [orcid.org/0009-0003-0945-8966](https://orcid.org/0009-0003-0945-8966)
