@@ -28,7 +28,7 @@ I am eager to contribute to the development and enhancement of sophisticated pri
 
 Here are some of the projects I've worked on:
 
-1.  **Quantitative Analysis of Residential Sales Volume Drivers in Ibiza and Formentera** (MSc Thesis - Ongoing)
+1.  **Quantitative Analysis of Residential Sales Volume Drivers in Ibiza and Formentera** (MSc Thesis - AUG 2025)
     * **Overview:** This ongoing thesis involves developing quantitative models to analyze and predict drivers of residential sales volume.
     * **Methodologies:** Econometric and machine learning model development, complex data analysis, feature engineering, rigorous model validation. These are directly transferable to analyzing financial market data.
     * **Tech Stack:** Python, Tensorflow, Keras, Scikit-Learn, SQLite, VS Code, LaTeX, GitHub
@@ -74,7 +74,7 @@ Here are some of the projects I've worked on:
 
 ## 🎓 Education
 
-* **Master of Science in Data Analytics** - UCLan Cyprus (2024 - Present)
+* **Master of Science in Data Analytics** - UCLan Cyprus (2024 - 2025)
 * **Bachelor of Science in International Finance** - Frankfurt University of Applied Sciences (2019 - 2023)
 * **Technical High School Diploma in Economic Computer Science** - KBBZ Dillingen/Saar (2014 - 2016)
 
